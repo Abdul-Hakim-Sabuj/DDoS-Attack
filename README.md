@@ -9,12 +9,12 @@ A affective tool to perform DDoS attack on websites, ip and ports
 
 
 
-## Authors
+# Authors
 
 - [@Abdul-Hakim-Sabuj](https://www.github.com/Abdul-Hakim-Sabuj)
 
 
-## Installation
+# Installation
 
 This project is currently windows only
 
@@ -22,10 +22,14 @@ So download the file
 
 go to the folder
 
-and run DDoS-Attacker.exe as administrator
+and run DDoS-Attacker.exe as administrator.
 
+# Requirements
 
+OS: Windows
 
+Packages: None
 
+Programs: None
     
-## Thank you for downloading DDoS-Attacker
+# Thank you for downloading DDoS-Attacker
